@@ -1,0 +1,26 @@
+{
+    "quiz": {
+        "q1": {
+            "question": "question one?",
+            "options": {
+                "1":"possible answer 1",
+                "2":"possible answer 2",
+                "3":"possible answer 3",
+                "4":"possible answer 4"
+            },
+            "type" : "single",
+            "answer": ["2"]
+        },
+        "q2": {
+            "question": "question two?",
+            "options": {
+                "1":"possible answer 1",
+                "2":"possible answer 2",
+                "3":"possible answer 3",
+                "4":"possible answer 4"
+            },
+            "type": "multiple",
+            "answer": ["2","4"]
+        }
+    }
+}
